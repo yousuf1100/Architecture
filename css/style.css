@@ -586,10 +586,13 @@ i footer-icon {
   border: 1px solid #E6D8CC;
 }
 
-/* ************************ for mobile view 375px**************** */
+/* ************************ for mobile view 480px**************** */
 @media (max-width:480px) {
   .nav-item{
     display: none;
+  }
+  .logo{
+    margin-left:20px;
   }
   #content {
     width: 335px;
